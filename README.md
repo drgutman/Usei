@@ -73,7 +73,7 @@
 
 1. **Requirements**:
    - Python 3.12.9 (ensure "Add Python to PATH" is checked during installation).
-   - Visual Studio Build Tools (select "Desktop development with C++" during installation).
+   - Visual Studio Build Tools [[link](https://visualstudio.microsoft.com/visual-cpp-build-tools/)] (select "Desktop development with C++" during installation).
 
 2. **Steps**:
    - Download the zip file:
