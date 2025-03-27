@@ -118,7 +118,7 @@ For any questions or feedback, please open an issue or start a discussion.
 
 ## Donate
 
-If you enjoy using this program, please help me to continue developing it by donating some [money(https://github.com/drgutman/Usei/releases/download/v1.0.0/usei_portable.7z)].
+If you enjoy using this program, please help me to continue developing it by donating some [money](https://github.com/drgutman/Usei/releases/download/v1.0.0/usei_portable.7z).
 I believe in open source but it already took me a lot of time to get it working properly and it will take a lot more to add new features.
  
 <a href="http://paypal.me/drgutman/20" target="_blank">
