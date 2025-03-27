@@ -1,0 +1,6 @@
+PyQt6
+PyQtDarkTheme-fork
+requests
+pydub
+fugashi
+pyopenjtalk
