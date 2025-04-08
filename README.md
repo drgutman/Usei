@@ -3,7 +3,7 @@
 
 ---
 
-![USEI TTS Logo](https://github.com/drgutman/Usei/blob/main/ui/res/usei.gif)
+![USEI TTS Logo](https://github.com/drgutman/Usei/blob/main/ui/res/banner.gif)
 
 ## USEI TTS is a PyQt6 interface based on the [Kokoro ONNX](https://github.com/thewh1teagle/kokoro-onnx).
 
@@ -52,14 +52,14 @@
 
 #### Installer
 
-1. Download the latest version from [[link](https://github.com/drgutman/Usei/releases/download/v1.0.0/Usei_Setup.exe)].
+1. Download the latest version from [[link](https://github.com/drgutman/Usei/releases/download/v1.1.0/Usei_Setup.exe)].
 2. Follow the installation prompts.
 3. Ensure Python 3.11.9 is installed and added to your PATH.
 4. Enjoy!
 
 #### Portable Executable
 
-1. Download the zip file from [[link](https://github.com/drgutman/Usei/releases/download/v1.0.0/usei_portable.7z)].
+1. Download the zip file from [[link](https://github.com/drgutman/Usei/releases/download/v1.1.0/usei-portable.zip)].
 2. Ensure Python 3.11.9 is installed before running the application.
 3. Unpack it in a folder and run the executable.
 
