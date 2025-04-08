@@ -146,7 +146,7 @@ If you enjoy using this program, please help me to continue developing it by don
 I believe in open source, but it already took me a lot of time to get it working properly and it will take a lot more to add new features.
  
 <a href="http://paypal.me/drgutman/20" target="_blank">
-  <img src="https://github.com/drgutman/Usei/blob/main/res/pizza.gif?raw=true" alt="Support with Pizza"/>
+  <img src="https://github.com/drgutman/Usei/blob/main/ui/res/pizza.gif?raw=true" alt="Support with Pizza"/>
 </a>
 
 
